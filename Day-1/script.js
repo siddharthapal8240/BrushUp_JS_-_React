@@ -19,3 +19,16 @@ let c="sid";
     console.log(a)
 }
 console.log(a)
+
+let o ={
+    "name:":"sid",
+    "age": 23,
+    "isStudent": true
+}
+
+console.log(o);
+
+o.age=24;
+
+
+
