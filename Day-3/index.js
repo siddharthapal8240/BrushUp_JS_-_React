@@ -10,6 +10,10 @@ let arr = [1, 2, 3, 4, 5]
 // arr[5] = 60;
 // console.log(arr[5]);
 // console.log(arr[6]);
- console.log(arr, typeof arr);
- console.log(arr.toString())
-    console.log(arr.join(' and '))
+//  console.log(arr, typeof arr);
+//  console.log(arr.toString())
+//     console.log(arr.join(' and '))
+
+    arr.pop()
+    console.log(arr)
+    
