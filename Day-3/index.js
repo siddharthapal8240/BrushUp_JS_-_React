@@ -14,6 +14,8 @@ let arr = [1, 2, 3, 4, 5]
 //  console.log(arr.toString())
 //     console.log(arr.join(' and '))
 
-    arr.pop()
-    console.log(arr)
-    
+    // arr.pop()
+    // console.log(arr)
+
+    // arr.push(60)
+    // console.log(arr)
