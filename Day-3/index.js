@@ -1,4 +1,4 @@
-let arr = [1, 2, 3, 4, 5]
+// let arr = [1, 2, 3, 4, 5]
 
 // console.log(arr);
 // console.log(arr.length);
@@ -20,8 +20,13 @@ let arr = [1, 2, 3, 4, 5]
     // arr.push(60)
     // console.log(arr)
 
-    arr.shift()
-    console.log(arr)
+    // arr.shift()
+    // console.log(arr)
 
-    delete arr[2]
-    console.log(arr[2])
+    // delete arr[2]
+    // console.log(arr[2])
+
+    // let a1= [1, 2, 3]
+    // let a2= [4, 5, 6]
+    // let a3= [7, 8, 9]
+    // console.log( a1.concat(a2, a3))
