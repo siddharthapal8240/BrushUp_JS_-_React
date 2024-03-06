@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let random=Math.random();
+        let first, mid, last
+        if(random<0.33){
+            first="rock";
+        }
+        else if(random<0.66 && random>=0.33){
+            first="paper";
+        }
+        else{
+            first="fire";
+        }
+//Generate the mid word
+        if(random<0.33){
+            mid="engine";
+        }
+        else if(random<0.66 && random>=0.33){
+            mid="food";
+        }
+        else{
+            mid="garments";
+        }
+//Generate the last word
+        if(random<0.33){
+            last="limited";
+        }
+        else if(random<0.66 && random>=0.33){
+            last="corporate";
+        }
+        else{
+            last="hub";
+        }
+        console.log(first +mid +last);
+    </script>
+</body>
+</html>
