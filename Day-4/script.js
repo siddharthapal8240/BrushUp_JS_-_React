@@ -10,6 +10,8 @@ console.log("testing")
 
 // document.querySelector(".box").style.backgroundColor="green"
 
-document.querySelectorAll(".box").forEach(e=>{
-    e.style.backgroundColor="green"
-})
+// document.querySelectorAll(".box").forEach(e=>{
+//     e.style.backgroundColor="green"
+// })
+
+// document.body.firstElementChild
