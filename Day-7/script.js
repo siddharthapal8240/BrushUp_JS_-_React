@@ -45,5 +45,5 @@ class Lion extends Animal {
 let a = new Animal("Bunny");
 console.log(a)
 
-let l = new Lion("Shera")
-console.log(l)
+// let l = new Lion("Shera")
+// console.log(l)
